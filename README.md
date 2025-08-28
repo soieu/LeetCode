@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0135-candy](https://github.com/soieu/LeetCode/tree/master/0135-candy) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/soieu/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [3748-sort-matrix-by-diagonals](https://github.com/soieu/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
 |  |
 | ------- |
@@ -46,4 +47,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/soieu/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Sorting
+|  |
+| ------- |
+| [3748-sort-matrix-by-diagonals](https://github.com/soieu/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+## Matrix
+|  |
+| ------- |
+| [3748-sort-matrix-by-diagonals](https://github.com/soieu/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 <!---LeetCode Topics End-->
