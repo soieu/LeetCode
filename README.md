@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/soieu/LeetCode/tree/master/0015-3sum) |
 | [0135-candy](https://github.com/soieu/LeetCode/tree/master/0135-candy) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/soieu/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3748-sort-matrix-by-diagonals](https://github.com/soieu/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/soieu/LeetCode/tree/master/0015-3sum) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/soieu/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/soieu/LeetCode/tree/master/0015-3sum) |
 | [3748-sort-matrix-by-diagonals](https://github.com/soieu/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Matrix
 |  |
